@@ -8,9 +8,9 @@ I am writing a thing, every day
 
 ### More Information
 
-Blogging my way back to 1999.
+A good old-fashioned blog.
 
 ### Contact me
 
-Yeah. It's hotmail. Get over it.
+Yeah. It's hotmail. 
 [everydayathing@hotmail.com](mailto:everydayathing@hotmail.com)
