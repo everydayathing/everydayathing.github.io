@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am writing a thing, every day
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Blogging my way back to 1999.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Yeah. It's hotmail. Get over it.
+[everydayathing@hotmail.com](mailto:everydayathing@hotmail.com)
