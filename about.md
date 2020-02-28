@@ -8,7 +8,7 @@ I am writing a thing, every day
 
 ### More Information
 
-A good old-fashioned blog.
+Nostalgic for the good old days of blogging? me, too
 
 ### Contact me
 
